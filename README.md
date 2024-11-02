@@ -33,7 +33,7 @@ I am Luka Đurić, a master's student at the Faculty of Information Technologies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djurke23" alt="djurke23" /></a> </p>
 
-- 🔭 I’m currently working on [BGDCARS Detailing](https://djurke23.github.io/BGD-Cars-Detailing/)
+- 🔭 I’m currently working on [BGDCARS Detailing]([(https://djurke23.github.io/bgdcarsdetailing/)])
 
 - 🌱 I’m currently learning **Python & React**
 
