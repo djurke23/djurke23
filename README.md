@@ -32,7 +32,7 @@ I am Luka Đurić, a master's student at the Faculty of Information Technologies
 
 - 👨‍💻 All of my projects are available at [https://djurke23.github.io/portfolio/](https://djurke23.github.io/portfolio/)
 
-- 📫 How to reach me **23djurke@gmail.com**
+- 📫 How to reach me **lukadjuricdjurke@pm.me**
 
 
 
