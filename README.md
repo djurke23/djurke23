@@ -34,10 +34,3 @@ I am Luka Đurić, a master's student at the Faculty of Information Technologies
 
 - 📫 How to reach me **lukadjuricdjurke@pm.me**
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djurke23&show_icons=true&locale=en&layout=compact" alt="djurke23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djurke23&show_icons=true&locale=en" alt="djurke23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djurke23&" alt="djurke23" /></p>
