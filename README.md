@@ -1,6 +1,6 @@
 ## 🧑‍💻 Luka Đurić 
 
-I am Luka Đurić, a master's student at the Faculty of Information Technologies. I am passionate about creating websites and my dream is to create my first program and game. In my spare time I like to travel, explore new places and cultures, and enjoy music, movies, series and anime. Also, I often read manga, play chess and follow sports like football and basketball, I actively train boxing and go to the gym, and I also like going to matches. Lately, I have dedicated myself to learning Spanish, because I believe that knowing the language is key to communication and understanding different cultures.
+I am Luka Đurić, a master's student at the Faculty of Information Technologies. I am passionate about creating websites. In my spare time I like to travel, explore new places and cultures. Lately, I have dedicated myself to learning Spanish because I believe that knowing the language is key to communication and understanding different cultures.
 
 
 ⚙️ Programming Languages
