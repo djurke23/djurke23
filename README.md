@@ -58,7 +58,6 @@ I am Luka Đurić, a master's student at the Faculty of Information Technologies
 
 ### 📌 About & Links
 
-- 🔭 I’m currently working on **[BGDCARS Detailing](https://djurke23.github.io/bgdcarsdetailing/)**
 - 🌱 I’m currently expanding my skills in **Next.js, React Native & Mobile Development**
-- 👨‍💻 All of my projects are available at **[djurke23.github.io/portfolio](https://djurke23.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **https://portfolio-v2-lime-nine.vercel.app**
 - 📫 How to reach me: **[lukadjuricdjurke@pm.me](mailto:lukadjuricdjurke@pm.me)**
