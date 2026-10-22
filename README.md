@@ -39,11 +39,6 @@ I am passionate about building modern web and mobile applications that solve rea
   <img src="https://streak-stats.demolab.com?user=djurke23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/djurke23" alt="djurke23's GitHub Contribution Chart" />
-</div>
 
 ---
 
