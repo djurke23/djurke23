@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/djurke23"><img src="https://img.shields.io/github/followers/djurke23?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://portfolio-v2-lime-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://portfolio-v2-lime-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-38BDF8?style=flat-square&logo=react&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:23djurke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/djurke23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -31,22 +31,18 @@ I am passionate about building modern web and mobile applications that solve rea
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djurke23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djurke23&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=djurke23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=djurke23&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=djurke23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=djurke23&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djurke23&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/38bdf8/djurke23" alt="djurke23's GitHub Contribution Chart" />
 </div>
 
 ---
@@ -111,10 +107,9 @@ I am passionate about building modern web and mobile applications that solve rea
 
 ---
 
-### 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+### 💭 Quote I Live By
+
+> *"The world is a book, and those who do not travel read only one page."* — Saint Augustine
 
 ---
 
@@ -124,7 +119,7 @@ I am passionate about building modern web and mobile applications that solve rea
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://portfolio-v2-lime-nine.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:23djurke@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -132,7 +127,3 @@ I am passionate about building modern web and mobile applications that solve rea
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djurke23&label=Profile%20views&color=0e75b6&style=flat" alt="djurke23" />
-</p>
